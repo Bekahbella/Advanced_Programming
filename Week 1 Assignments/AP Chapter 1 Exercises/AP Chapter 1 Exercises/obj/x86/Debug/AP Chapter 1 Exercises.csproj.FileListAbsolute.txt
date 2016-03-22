@@ -1,0 +1,6 @@
+C:\Users\somreb\Desktop\School Work\AP Chapter 1 Exercises\AP Chapter 1 Exercises\bin\Debug\AP Chapter 1 Exercises.exe
+C:\Users\somreb\Desktop\School Work\AP Chapter 1 Exercises\AP Chapter 1 Exercises\bin\Debug\AP Chapter 1 Exercises.pdb
+C:\Users\somreb\Desktop\School Work\AP Chapter 1 Exercises\AP Chapter 1 Exercises\obj\x86\Debug\AP Chapter 1 Exercises.exe
+C:\Users\somreb\Desktop\School Work\AP Chapter 1 Exercises\AP Chapter 1 Exercises\obj\x86\Debug\AP Chapter 1 Exercises.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 1 Assignments\AP Chapter 1 Exercises\AP Chapter 1 Exercises\obj\x86\Debug\AP Chapter 1 Exercises.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 1 Assignments\AP Chapter 1 Exercises\AP Chapter 1 Exercises\obj\x86\Debug\AP Chapter 1 Exercises.pdb

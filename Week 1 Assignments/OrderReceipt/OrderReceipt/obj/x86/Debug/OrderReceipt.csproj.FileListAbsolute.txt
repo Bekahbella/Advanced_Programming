@@ -1,0 +1,13 @@
+C:\Users\somreb\Desktop\School Work\OrderReceipt\OrderReceipt\bin\Debug\OrderReceipt.exe
+C:\Users\somreb\Desktop\School Work\OrderReceipt\OrderReceipt\bin\Debug\OrderReceipt.pdb
+C:\Users\somreb\Desktop\School Work\OrderReceipt\OrderReceipt\obj\x86\Debug\OrderReceipt.exe
+C:\Users\somreb\Desktop\School Work\OrderReceipt\OrderReceipt\obj\x86\Debug\OrderReceipt.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\OrderReceipt\OrderReceipt\obj\x86\Debug\OrderReceipt.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\OrderReceipt\OrderReceipt\obj\x86\Debug\OrderReceipt.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\OrderReceipt\OrderReceipt\bin\Debug\OrderReceipt.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\OrderReceipt\OrderReceipt\bin\Debug\OrderReceipt.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 1 Assignments\OrderReceipt\OrderReceipt\obj\x86\Debug\OrderReceipt.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 1 Assignments\OrderReceipt\OrderReceipt\obj\x86\Debug\OrderReceipt.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 1 Assignments\OrderReceipt\OrderReceipt\bin\Debug\OrderReceipt.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 1 Assignments\OrderReceipt\OrderReceipt\bin\Debug\OrderReceipt.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 1 Assignments\OrderReceipt\OrderReceipt\obj\x86\Debug\OrderReceipt.csprojResolveAssemblyReference.cache

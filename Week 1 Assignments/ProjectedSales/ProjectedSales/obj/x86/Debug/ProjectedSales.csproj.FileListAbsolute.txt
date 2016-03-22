@@ -1,0 +1,9 @@
+C:\Users\somreb\Desktop\School Work\ProjectedSales\ProjectedSales\bin\Debug\ProjectedSales.exe
+C:\Users\somreb\Desktop\School Work\ProjectedSales\ProjectedSales\bin\Debug\ProjectedSales.pdb
+C:\Users\somreb\Desktop\School Work\ProjectedSales\ProjectedSales\obj\x86\Debug\ProjectedSales.exe
+C:\Users\somreb\Desktop\School Work\ProjectedSales\ProjectedSales\obj\x86\Debug\ProjectedSales.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\ProjectedSales\ProjectedSales\obj\x86\Debug\ProjectedSales.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\ProjectedSales\ProjectedSales\obj\x86\Debug\ProjectedSales.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\ProjectedSales\ProjectedSales\bin\Debug\ProjectedSales.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\ProjectedSales\ProjectedSales\bin\Debug\ProjectedSales.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\ProjectedSales\ProjectedSales\obj\x86\Debug\ProjectedSales.csprojResolveAssemblyReference.cache

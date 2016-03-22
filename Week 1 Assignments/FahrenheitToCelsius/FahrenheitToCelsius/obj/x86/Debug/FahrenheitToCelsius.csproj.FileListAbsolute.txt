@@ -1,0 +1,11 @@
+C:\Users\somreb\Desktop\School Work\FahrenheitToCelsius\FahrenheitToCelsius\bin\Debug\FahrenheitToCelsius.exe
+C:\Users\somreb\Desktop\School Work\FahrenheitToCelsius\FahrenheitToCelsius\bin\Debug\FahrenheitToCelsius.pdb
+C:\Users\somreb\Desktop\School Work\FahrenheitToCelsius\FahrenheitToCelsius\obj\x86\Debug\FahrenheitToCelsius.exe
+C:\Users\somreb\Desktop\School Work\FahrenheitToCelsius\FahrenheitToCelsius\obj\x86\Debug\FahrenheitToCelsius.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\FahrenheitToCelsius\FahrenheitToCelsius\obj\x86\Debug\FahrenheitToCelsius.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\FahrenheitToCelsius\FahrenheitToCelsius\obj\x86\Debug\FahrenheitToCelsius.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\FahrenheitToCelsius\FahrenheitToCelsius\obj\x86\Debug\FahrenheitToCelsius.csprojResolveAssemblyReference.cache
+C:\Users\somreb\Desktop\School Work\Advanced Programming\FahrenheitToCelsius\FahrenheitToCelsius\bin\Debug\FahrenheitToCelsius.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\FahrenheitToCelsius\FahrenheitToCelsius\bin\Debug\FahrenheitToCelsius.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 1 Assignments\FahrenheitToCelsius\FahrenheitToCelsius\obj\x86\Debug\FahrenheitToCelsius.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 1 Assignments\FahrenheitToCelsius\FahrenheitToCelsius\obj\x86\Debug\FahrenheitToCelsius.pdb
