@@ -1,0 +1,4 @@
+C:\Users\somreb\Desktop\School Work\Advanced Programming\MilesToFeet\MilesToFeet\bin\Debug\MilesToFeet.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\MilesToFeet\MilesToFeet\bin\Debug\MilesToFeet.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\MilesToFeet\MilesToFeet\obj\x86\Debug\MilesToFeet.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\MilesToFeet\MilesToFeet\obj\x86\Debug\MilesToFeet.pdb

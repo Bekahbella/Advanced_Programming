@@ -1,0 +1,4 @@
+C:\Users\somreb\Desktop\School Work\Advanced Programming\CheckZips\CheckZips\bin\Debug\CheckZips.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\CheckZips\CheckZips\bin\Debug\CheckZips.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\CheckZips\CheckZips\obj\x86\Debug\CheckZips.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\CheckZips\CheckZips\obj\x86\Debug\CheckZips.pdb

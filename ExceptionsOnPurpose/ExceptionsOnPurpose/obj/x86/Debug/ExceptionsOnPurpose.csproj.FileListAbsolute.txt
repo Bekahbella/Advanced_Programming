@@ -1,0 +1,4 @@
+C:\Users\somreb\Desktop\School Work\Advanced Programming\ExceptionsOnPurpose\ExceptionsOnPurpose\bin\Debug\ExceptionsOnPurpose.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\ExceptionsOnPurpose\ExceptionsOnPurpose\bin\Debug\ExceptionsOnPurpose.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\ExceptionsOnPurpose\ExceptionsOnPurpose\obj\x86\Debug\ExceptionsOnPurpose.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\ExceptionsOnPurpose\ExceptionsOnPurpose\obj\x86\Debug\ExceptionsOnPurpose.pdb

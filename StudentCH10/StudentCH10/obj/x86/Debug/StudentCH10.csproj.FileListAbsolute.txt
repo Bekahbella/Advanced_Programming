@@ -1,0 +1,4 @@
+C:\Users\somreb\Desktop\School Work\Advanced Programming\StudentCH10\StudentCH10\bin\Debug\StudentCH10.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\StudentCH10\StudentCH10\bin\Debug\StudentCH10.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\StudentCH10\StudentCH10\obj\x86\Debug\StudentCH10.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\StudentCH10\StudentCH10\obj\x86\Debug\StudentCH10.pdb

@@ -1,0 +1,4 @@
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Chapter_7_Practice\Chapter_7_Practice\bin\Debug\Chapter_7_Practice.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Chapter_7_Practice\Chapter_7_Practice\bin\Debug\Chapter_7_Practice.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Chapter_7_Practice\Chapter_7_Practice\obj\x86\Debug\Chapter_7_Practice.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Chapter_7_Practice\Chapter_7_Practice\obj\x86\Debug\Chapter_7_Practice.pdb

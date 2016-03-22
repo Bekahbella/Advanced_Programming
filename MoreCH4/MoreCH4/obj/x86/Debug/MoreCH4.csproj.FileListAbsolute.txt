@@ -1,0 +1,4 @@
+C:\Users\somreb\Desktop\School Work\Advanced Programming\MoreCH4\MoreCH4\bin\Debug\MoreCH4.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\MoreCH4\MoreCH4\bin\Debug\MoreCH4.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\MoreCH4\MoreCH4\obj\x86\Debug\MoreCH4.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\MoreCH4\MoreCH4\obj\x86\Debug\MoreCH4.pdb

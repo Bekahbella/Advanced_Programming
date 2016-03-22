@@ -1,0 +1,5 @@
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Chapter4Practice\Chapter4Practice\bin\Debug\Chapter4Practice.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Chapter4Practice\Chapter4Practice\bin\Debug\Chapter4Practice.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Chapter4Practice\Chapter4Practice\obj\x86\Debug\Chapter4Practice.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Chapter4Practice\Chapter4Practice\obj\x86\Debug\Chapter4Practice.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Chapter4Practice\Chapter4Practice\obj\x86\Debug\Chapter4Practice.csprojResolveAssemblyReference.cache

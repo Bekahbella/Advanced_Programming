@@ -1,0 +1,8 @@
+C:\Users\somreb\Desktop\School Work\Advanced Programming\MVC_314\MVC_314.Tests\bin\Debug\MVC_314.Tests.dll.config
+C:\Users\somreb\Desktop\School Work\Advanced Programming\MVC_314\MVC_314.Tests\bin\Debug\MVC_314.Tests.dll
+C:\Users\somreb\Desktop\School Work\Advanced Programming\MVC_314\MVC_314.Tests\bin\Debug\MVC_314.Tests.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\MVC_314\MVC_314.Tests\bin\Debug\MVC_314.dll
+C:\Users\somreb\Desktop\School Work\Advanced Programming\MVC_314\MVC_314.Tests\bin\Debug\MVC_314.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\MVC_314\MVC_314.Tests\obj\Debug\MVC_314.Tests.csprojResolveAssemblyReference.cache
+C:\Users\somreb\Desktop\School Work\Advanced Programming\MVC_314\MVC_314.Tests\obj\Debug\MVC_314.Tests.dll
+C:\Users\somreb\Desktop\School Work\Advanced Programming\MVC_314\MVC_314.Tests\obj\Debug\MVC_314.Tests.pdb

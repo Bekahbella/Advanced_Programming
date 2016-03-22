@@ -1,0 +1,7 @@
+C:\Projects\AdvanceProgramming\Chpt6Arrays\Chpt6Arrays\bin\Debug\Chpt6Arrays.exe
+C:\Projects\AdvanceProgramming\Chpt6Arrays\Chpt6Arrays\bin\Debug\Chpt6Arrays.pdb
+C:\Projects\AdvanceProgramming\Chpt6Arrays\Chpt6Arrays\obj\x86\Debug\Chpt6Arrays.exe
+C:\Projects\AdvanceProgramming\Chpt6Arrays\Chpt6Arrays\obj\x86\Debug\Chpt6Arrays.pdb
+C:\Projects\AdvanceProgramming\Chpt6Arrays\Chpt6Arrays\obj\x86\Debug\Chpt6Arrays.csprojResolveAssemblyReference.cache
+C:\Users\somreb\Desktop\Souce Code Chapter 6-8\Souce Code Chapter 6-8\Chpt6Arrays\Chpt6Arrays\obj\x86\Debug\Chpt6Arrays.exe
+C:\Users\somreb\Desktop\Souce Code Chapter 6-8\Souce Code Chapter 6-8\Chpt6Arrays\Chpt6Arrays\obj\x86\Debug\Chpt6Arrays.pdb

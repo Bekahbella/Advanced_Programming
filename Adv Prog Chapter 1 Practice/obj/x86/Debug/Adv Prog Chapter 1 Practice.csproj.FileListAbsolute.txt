@@ -1,0 +1,4 @@
+C:\Users\somreb\Desktop\School Work\Adv Prog Chapter 1 Practice\Adv Prog Chapter 1 Practice\bin\Debug\Adv Prog Chapter 1 Practice.exe
+C:\Users\somreb\Desktop\School Work\Adv Prog Chapter 1 Practice\Adv Prog Chapter 1 Practice\bin\Debug\Adv Prog Chapter 1 Practice.pdb
+C:\Users\somreb\Desktop\School Work\Adv Prog Chapter 1 Practice\Adv Prog Chapter 1 Practice\obj\x86\Debug\Adv Prog Chapter 1 Practice.exe
+C:\Users\somreb\Desktop\School Work\Adv Prog Chapter 1 Practice\Adv Prog Chapter 1 Practice\obj\x86\Debug\Adv Prog Chapter 1 Practice.pdb

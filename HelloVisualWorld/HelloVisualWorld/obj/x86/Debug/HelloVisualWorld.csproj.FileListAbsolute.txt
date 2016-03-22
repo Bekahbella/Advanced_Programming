@@ -1,0 +1,7 @@
+C:\Users\somreb\Desktop\School Work\Advanced Programming\HelloVisualWorld\HelloVisualWorld\bin\Debug\HelloVisualWorld.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\HelloVisualWorld\HelloVisualWorld\bin\Debug\HelloVisualWorld.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\HelloVisualWorld\HelloVisualWorld\obj\x86\Debug\HelloVisualWorld.HelloForm.resources
+C:\Users\somreb\Desktop\School Work\Advanced Programming\HelloVisualWorld\HelloVisualWorld\obj\x86\Debug\HelloVisualWorld.Properties.Resources.resources
+C:\Users\somreb\Desktop\School Work\Advanced Programming\HelloVisualWorld\HelloVisualWorld\obj\x86\Debug\HelloVisualWorld.csproj.GenerateResource.Cache
+C:\Users\somreb\Desktop\School Work\Advanced Programming\HelloVisualWorld\HelloVisualWorld\obj\x86\Debug\HelloVisualWorld.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\HelloVisualWorld\HelloVisualWorld\obj\x86\Debug\HelloVisualWorld.pdb

@@ -1,0 +1,6 @@
+C:\Users\somreb\Desktop\School Work\Advanced Programming\DemoLoan2\DemoLoan2\bin\Debug\DemoLoan2.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\DemoLoan2\DemoLoan2\bin\Debug\DemoLoan2.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\DemoLoan2\DemoLoan2\obj\x86\Debug\DemoLoan2.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\DemoLoan2\DemoLoan2\obj\x86\Debug\DemoLoan2.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Chapter 10 Practice\DemoLoan2\DemoLoan2\obj\x86\Debug\DemoLoan2.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Chapter 10 Practice\DemoLoan2\DemoLoan2\obj\x86\Debug\DemoLoan2.pdb

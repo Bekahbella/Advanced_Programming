@@ -1,0 +1,4 @@
+C:\Users\somreb\Desktop\School Work\Advanced Programming\AdvProgChap2Exercises\AdvProgChap2Exercises\bin\Debug\AdvProgChap2Exercises.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\AdvProgChap2Exercises\AdvProgChap2Exercises\bin\Debug\AdvProgChap2Exercises.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\AdvProgChap2Exercises\AdvProgChap2Exercises\obj\x86\Debug\AdvProgChap2Exercises.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\AdvProgChap2Exercises\AdvProgChap2Exercises\obj\x86\Debug\AdvProgChap2Exercises.pdb

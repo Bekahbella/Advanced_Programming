@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationGUI", "MultiplicationGUI\MultiplicationGUI.csproj", "{FAF4660C-C15B-4826-858D-182F9847D858}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAF4660C-C15B-4826-858D-182F9847D858}.Debug|x86.ActiveCfg = Debug|x86
+		{FAF4660C-C15B-4826-858D-182F9847D858}.Debug|x86.Build.0 = Debug|x86
+		{FAF4660C-C15B-4826-858D-182F9847D858}.Release|x86.ActiveCfg = Release|x86
+		{FAF4660C-C15B-4826-858D-182F9847D858}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
