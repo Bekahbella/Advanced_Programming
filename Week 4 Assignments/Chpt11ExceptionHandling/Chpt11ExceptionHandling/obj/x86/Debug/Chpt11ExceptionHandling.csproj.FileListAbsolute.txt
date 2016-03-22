@@ -1,0 +1,6 @@
+C:\Projects\AdvanceProgramming\Chpt11ExceptionHandling\Chpt11ExceptionHandling\bin\Debug\Chpt11ExceptionHandling.exe
+C:\Projects\AdvanceProgramming\Chpt11ExceptionHandling\Chpt11ExceptionHandling\bin\Debug\Chpt11ExceptionHandling.pdb
+C:\Projects\AdvanceProgramming\Chpt11ExceptionHandling\Chpt11ExceptionHandling\obj\x86\Debug\Chpt11ExceptionHandling.exe
+C:\Projects\AdvanceProgramming\Chpt11ExceptionHandling\Chpt11ExceptionHandling\obj\x86\Debug\Chpt11ExceptionHandling.pdb
+C:\Users\somreb\Desktop\Chpt11ExceptionHandling\Chpt11ExceptionHandling\obj\x86\Debug\Chpt11ExceptionHandling.exe
+C:\Users\somreb\Desktop\Chpt11ExceptionHandling\Chpt11ExceptionHandling\obj\x86\Debug\Chpt11ExceptionHandling.pdb

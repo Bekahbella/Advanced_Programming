@@ -1,0 +1,8 @@
+C:\Users\somreb\Desktop\School Work\Advanced Programming\FindSquareRoot\FindSquareRoot\bin\Debug\FindSquareRoot.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\FindSquareRoot\FindSquareRoot\bin\Debug\FindSquareRoot.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\FindSquareRoot\FindSquareRoot\obj\x86\Debug\FindSquareRoot.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\FindSquareRoot\FindSquareRoot\obj\x86\Debug\FindSquareRoot.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 6 Assignments\FindSquareRoot\FindSquareRoot\obj\x86\Debug\FindSquareRoot.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 6 Assignments\FindSquareRoot\FindSquareRoot\obj\x86\Debug\FindSquareRoot.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 6 Assignments\FindSquareRoot\FindSquareRoot\bin\Debug\FindSquareRoot.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 6 Assignments\FindSquareRoot\FindSquareRoot\bin\Debug\FindSquareRoot.pdb

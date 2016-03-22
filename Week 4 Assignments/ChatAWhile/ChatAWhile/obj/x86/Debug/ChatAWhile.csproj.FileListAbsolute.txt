@@ -1,0 +1,10 @@
+C:\Users\somreb\Desktop\School Work\Advanced Programming\ChatAWhile\ChatAWhile\bin\Debug\ChatAWhile.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\ChatAWhile\ChatAWhile\bin\Debug\ChatAWhile.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\ChatAWhile\ChatAWhile\obj\x86\Debug\ChatAWhile.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\ChatAWhile\ChatAWhile\obj\x86\Debug\ChatAWhile.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\ChatAWhile\ChatAWhile\obj\x86\Debug\ChatAWhile.csprojResolveAssemblyReference.cache
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 4 Assignments\ChatAWhile\ChatAWhile\obj\x86\Debug\ChatAWhile.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 4 Assignments\ChatAWhile\ChatAWhile\obj\x86\Debug\ChatAWhile.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 4 Assignments\ChatAWhile\ChatAWhile\bin\Debug\ChatAWhile.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 4 Assignments\ChatAWhile\ChatAWhile\bin\Debug\ChatAWhile.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 4 Assignments\ChatAWhile\ChatAWhile\obj\x86\Debug\ChatAWhile.csprojResolveAssemblyReference.cache

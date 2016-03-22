@@ -1,0 +1,10 @@
+C:\Users\somreb\Desktop\School Work\Advanced Programming\RecoveringDemo\RecoveringDemo\bin\Debug\RecoveringDemo.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\RecoveringDemo\RecoveringDemo\bin\Debug\RecoveringDemo.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\RecoveringDemo\RecoveringDemo\obj\x86\Debug\RecoveringDemo.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\RecoveringDemo\RecoveringDemo\obj\x86\Debug\RecoveringDemo.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\RecoveringDemo\RecoveringDemo\obj\x86\Debug\RecoveringDemo.csprojResolveAssemblyReference.cache
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 6 Assignments\RecoveringDemo\RecoveringDemo\obj\x86\Debug\RecoveringDemo.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 6 Assignments\RecoveringDemo\RecoveringDemo\bin\Debug\RecoveringDemo.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 6 Assignments\RecoveringDemo\RecoveringDemo\bin\Debug\RecoveringDemo.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 6 Assignments\RecoveringDemo\RecoveringDemo\obj\x86\Debug\RecoveringDemo.csprojResolveAssemblyReference.cache
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 6 Assignments\RecoveringDemo\RecoveringDemo\obj\x86\Debug\RecoveringDemo.pdb

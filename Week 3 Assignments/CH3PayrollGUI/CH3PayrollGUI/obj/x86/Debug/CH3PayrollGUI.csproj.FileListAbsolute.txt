@@ -1,0 +1,10 @@
+C:\Users\somreb\Desktop\School Work\Advanced Programming\CH3PayrollGUI\CH3PayrollGUI\bin\Debug\CH3PayrollGUI.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\CH3PayrollGUI\CH3PayrollGUI\bin\Debug\CH3PayrollGUI.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\CH3PayrollGUI\CH3PayrollGUI\obj\x86\Debug\CH3PayrollGUI.Form1.resources
+C:\Users\somreb\Desktop\School Work\Advanced Programming\CH3PayrollGUI\CH3PayrollGUI\obj\x86\Debug\CH3PayrollGUI.Properties.Resources.resources
+C:\Users\somreb\Desktop\School Work\Advanced Programming\CH3PayrollGUI\CH3PayrollGUI\obj\x86\Debug\CH3PayrollGUI.csproj.GenerateResource.Cache
+C:\Users\somreb\Desktop\School Work\Advanced Programming\CH3PayrollGUI\CH3PayrollGUI\obj\x86\Debug\CH3PayrollGUI.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\CH3PayrollGUI\CH3PayrollGUI\obj\x86\Debug\CH3PayrollGUI.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\CH3PayrollGUI\CH3PayrollGUI\obj\x86\Debug\CH3PayrollGUI.csprojResolveAssemblyReference.cache
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 3 Assignments\CH3PayrollGUI\CH3PayrollGUI\obj\x86\Debug\CH3PayrollGUI.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 3 Assignments\CH3PayrollGUI\CH3PayrollGUI\obj\x86\Debug\CH3PayrollGUI.pdb

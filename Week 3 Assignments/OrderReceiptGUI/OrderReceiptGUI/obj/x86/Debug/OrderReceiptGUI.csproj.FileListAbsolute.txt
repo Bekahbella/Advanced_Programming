@@ -1,0 +1,15 @@
+C:\Users\somreb\Desktop\School Work\Advanced Programming\OrderReceiptGUI\OrderReceiptGUI\bin\Debug\OrderReceiptGUI.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\OrderReceiptGUI\OrderReceiptGUI\bin\Debug\OrderReceiptGUI.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\OrderReceiptGUI\OrderReceiptGUI\obj\x86\Debug\OrderReceiptGUI.Form1.resources
+C:\Users\somreb\Desktop\School Work\Advanced Programming\OrderReceiptGUI\OrderReceiptGUI\obj\x86\Debug\OrderReceiptGUI.Properties.Resources.resources
+C:\Users\somreb\Desktop\School Work\Advanced Programming\OrderReceiptGUI\OrderReceiptGUI\obj\x86\Debug\OrderReceiptGUI.csproj.GenerateResource.Cache
+C:\Users\somreb\Desktop\School Work\Advanced Programming\OrderReceiptGUI\OrderReceiptGUI\obj\x86\Debug\OrderReceiptGUI.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\OrderReceiptGUI\OrderReceiptGUI\obj\x86\Debug\OrderReceiptGUI.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 3 Assignments\OrderReceiptGUI\OrderReceiptGUI\obj\x86\Debug\OrderReceiptGUI.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 3 Assignments\OrderReceiptGUI\OrderReceiptGUI\obj\x86\Debug\OrderReceiptGUI.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 3 Assignments\OrderReceiptGUI\OrderReceiptGUI\bin\Debug\OrderReceiptGUI.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 3 Assignments\OrderReceiptGUI\OrderReceiptGUI\bin\Debug\OrderReceiptGUI.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 3 Assignments\OrderReceiptGUI\OrderReceiptGUI\obj\x86\Debug\OrderReceiptGUI.csprojResolveAssemblyReference.cache
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 3 Assignments\OrderReceiptGUI\OrderReceiptGUI\obj\x86\Debug\OrderReceiptGUI.Form1.resources
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 3 Assignments\OrderReceiptGUI\OrderReceiptGUI\obj\x86\Debug\OrderReceiptGUI.Properties.Resources.resources
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 3 Assignments\OrderReceiptGUI\OrderReceiptGUI\obj\x86\Debug\OrderReceiptGUI.csproj.GenerateResource.Cache

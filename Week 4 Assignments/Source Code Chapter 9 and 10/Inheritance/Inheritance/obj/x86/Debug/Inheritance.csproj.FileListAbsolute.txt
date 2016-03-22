@@ -1,0 +1,8 @@
+C:\Projects\AdvanceProgramming\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Projects\AdvanceProgramming\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Projects\AdvanceProgramming\Inheritance\Inheritance\obj\x86\Debug\Inheritance.exe
+C:\Projects\AdvanceProgramming\Inheritance\Inheritance\obj\x86\Debug\Inheritance.pdb
+C:\Projects\AdvanceProgramming\Inheritance\Inheritance\obj\x86\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\somreb\Desktop\Source Code Chapter 9 and 10\Inheritance\Inheritance\obj\x86\Debug\Inheritance.exe
+C:\Users\somreb\Desktop\Source Code Chapter 9 and 10\Inheritance\Inheritance\obj\x86\Debug\Inheritance.pdb
+C:\Users\somreb\Desktop\Source Code Chapter 9 and 10\Inheritance\Inheritance\obj\x86\Debug\Inheritance.csprojResolveAssemblyReference.cache

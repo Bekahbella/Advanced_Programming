@@ -1,0 +1,14 @@
+C:\Users\somreb\Desktop\School Work\Advanced Programming\DeskGUI\DeskGUI\bin\Debug\DeskGUI.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\DeskGUI\DeskGUI\bin\Debug\DeskGUI.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\DeskGUI\DeskGUI\obj\x86\Debug\DeskGUI.csprojResolveAssemblyReference.cache
+C:\Users\somreb\Desktop\School Work\Advanced Programming\DeskGUI\DeskGUI\obj\x86\Debug\DeskGUI.Form1.resources
+C:\Users\somreb\Desktop\School Work\Advanced Programming\DeskGUI\DeskGUI\obj\x86\Debug\DeskGUI.Properties.Resources.resources
+C:\Users\somreb\Desktop\School Work\Advanced Programming\DeskGUI\DeskGUI\obj\x86\Debug\DeskGUI.csproj.GenerateResource.Cache
+C:\Users\somreb\Desktop\School Work\Advanced Programming\DeskGUI\DeskGUI\obj\x86\Debug\DeskGUI.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\DeskGUI\DeskGUI\obj\x86\Debug\DeskGUI.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 4 Assignments\DeskGUI\DeskGUI\obj\x86\Debug\DeskGUI.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 4 Assignments\DeskGUI\DeskGUI\obj\x86\Debug\DeskGUI.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 4 Assignments\DeskGUI\DeskGUI\obj\x86\Debug\DeskGUI.csprojResolveAssemblyReference.cache
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 4 Assignments\DeskGUI\DeskGUI\obj\x86\Debug\DeskGUI.Form1.resources
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 4 Assignments\DeskGUI\DeskGUI\obj\x86\Debug\DeskGUI.Properties.Resources.resources
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 4 Assignments\DeskGUI\DeskGUI\obj\x86\Debug\DeskGUI.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Users\somreb\Desktop\School Work\Advanced Programming\TurningDemo\TurningDemo\bin\Debug\TurningDemo.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\TurningDemo\TurningDemo\bin\Debug\TurningDemo.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\TurningDemo\TurningDemo\obj\x86\Debug\TurningDemo.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\TurningDemo\TurningDemo\obj\x86\Debug\TurningDemo.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 6 Assignments\TurningDemo\TurningDemo\obj\x86\Debug\TurningDemo.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 6 Assignments\TurningDemo\TurningDemo\obj\x86\Debug\TurningDemo.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 6 Assignments\TurningDemo\TurningDemo\obj\x86\Debug\TurningDemo.csprojResolveAssemblyReference.cache
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 6 Assignments\TurningDemo\TurningDemo\bin\Debug\TurningDemo.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 6 Assignments\TurningDemo\TurningDemo\bin\Debug\TurningDemo.pdb

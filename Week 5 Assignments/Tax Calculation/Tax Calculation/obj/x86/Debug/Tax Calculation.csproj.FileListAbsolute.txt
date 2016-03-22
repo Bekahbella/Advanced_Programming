@@ -1,0 +1,7 @@
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Tax Calculation\Tax Calculation\bin\Debug\Tax Calculation.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Tax Calculation\Tax Calculation\bin\Debug\Tax Calculation.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Tax Calculation\Tax Calculation\obj\x86\Debug\Tax Calculation.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Tax Calculation\Tax Calculation\obj\x86\Debug\Tax Calculation.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Tax Calculation\Tax Calculation\obj\x86\Debug\Tax Calculation.csprojResolveAssemblyReference.cache
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 5 Assignments\Tax Calculation\Tax Calculation\obj\x86\Debug\Tax Calculation.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Week 5 Assignments\Tax Calculation\Tax Calculation\obj\x86\Debug\Tax Calculation.pdb

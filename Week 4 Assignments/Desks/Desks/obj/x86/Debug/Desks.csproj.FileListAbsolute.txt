@@ -1,0 +1,4 @@
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Desks\Desks\bin\Debug\Desks.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Desks\Desks\bin\Debug\Desks.pdb
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Desks\Desks\obj\x86\Debug\Desks.exe
+C:\Users\somreb\Desktop\School Work\Advanced Programming\Desks\Desks\obj\x86\Debug\Desks.pdb
